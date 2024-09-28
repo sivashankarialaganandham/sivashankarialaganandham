@@ -2,12 +2,12 @@
 👋 Hi there! I'm Sivashankari, a dedicated Data Analyst enthusiast with over a year of experience in transforming data into actionable insights.
 
 ## About Me
-- Skilled in Python, SQL, Excel Macros, Tableau and Power BI, I specialise in data analysis, visualization, and dashboard creation.
-- I'm enthusiastic about problem-solving, and my expertise extends to Python, Machine Learning and more.
+- 📈Skilled in Python, SQL, Excel Macros, Tableau and Power BI, I specialise in data analysis, visualization, and dashboard creation.
+- 🤗I'm enthusiastic about problem-solving, and my expertise extends to Python, Machine Learning and more.
 
 ## What You'll Find Here
-- Projects: Explore my work in data analysis, visualization, and machine learning, including:
--   Walmart Sales Forecast Analysis:  
+- 📚Projects: Explore my work in data analysis, visualization, and machine learning, including:
+  - Walmart Sales Forecast Analysis:  
   
 
 <!--
