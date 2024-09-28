@@ -11,7 +11,7 @@
 
 ## Get in Touch
 - 💬 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/a-sivashankari/)
-- 📧 For inquiries, drop me an email at [sivashankarialaganandham](sivashankarialaganandham@gmail.com)
+- 📧 For inquiries, drop me an email at sivashankarialaganandham@gmail.com
 
 <!--
 **sivashankarialaganandham/sivashankarialaganandham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
