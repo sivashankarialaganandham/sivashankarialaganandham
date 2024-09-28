@@ -7,23 +7,17 @@
 
 ## What You'll Find Here
 - 📚 Projects: Explore my work in data analysis, visualization, and machine learning, including:
-  - Walmart Sales Forecast Analysis:  
+  - [Walmart Sales Forecast](https://github.com/sivashankarialaganandham/Walmart_Sales_Forecast_MySQL.git): Developed a model to forecast Walmart sales based on historical data.
+  - [Agricultural CO2 Emission Forecast](https://github.com/sivashankarialaganandham/Agro_CO2_Emission.git): Designed a machine learning model to predict future CO2 emissions from agricultural activities.
+  - [Diabetes Analysis](https://github.com/sivashankarialaganandham/Diabetes_Analysis_R_studio.git): Conducted statistical analysis to assess the risk factors contributing to diabetes prevalence.
+  - [Bank Churn Prediction](https://github.com/sivashankarialaganandham/Bank_Churn_Prediction_ML.git): Built a machine learning model to anticipate customer churn in the banking sector.
+  - [Raisin Binary Classification](https://github.com/sivashankarialaganandham/Raisin_Binary_Classification.git): Developed a machine learning model to classify raisin varieties based on their features.
 
 ## Get in Touch
 - 💬 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/a-sivashankari/)
 - 📧 For inquiries, drop me an email at sivashankarialaganandham@gmail.com
 
-<!--
-**sivashankarialaganandham/sivashankarialaganandham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Feel free to explore my projects, provide feedback, and collaborate. Let's make data work for us! 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
