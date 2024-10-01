@@ -4,6 +4,8 @@
 ## About Me
 - 📈 Skilled in Python, SQL, Excel Macros, Tableau and Power BI, I specialise in data analysis, visualization, and dashboard creation.
 - 🤗 I'm enthusiastic about problem-solving, and my expertise extends to Python, Machine Learning and more.
+- 🔭 I’m currently working on my own project of 'Time Series Forecasting of House Prices Based on Macroeconomic Factors and House Attributes Using Deep Learning Models
+- 🌱 I’m currently learning and practicing my programming skills using competitive programming websites such as Hackerrank and Leetcode.
 
 ## What You'll Find Here
 - 📚 Projects: Explore my work in data analysis, visualization, and machine learning, including:
@@ -18,6 +20,3 @@
 - 📧 For inquiries, drop me an email at sivashankarialaganandham@gmail.com
 
 Feel free to explore my projects, provide feedback, and collaborate. Let's make data work for us! 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
