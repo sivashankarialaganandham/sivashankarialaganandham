@@ -7,6 +7,11 @@
 - 🔭 I’m currently working on my own project of 'Time Series Forecasting of House Prices Based on Macroeconomic Factors and House Attributes Using Deep Learning Models
 - 🌱 I’m currently learning and practicing my programming skills using competitive programming websites such as Hackerrank and Leetcode.
 
+##🌱 **Current Focus**:
+- Enhancing my GitHub profile every day of 2025.
+- Pursuing valuable certifications from prestigious organizations to strengthen my expertise.
+- Advancing my skills in competitive programming through platforms like LeetCode and HackerRank.
+
 ## What You'll Find Here
 - 📚 Projects: Explore my work in data analysis, visualization, and machine learning, including:
   - [Walmart Sales Forecast](https://github.com/sivashankarialaganandham/Walmart_Sales_Forecast_MySQL.git): Developed a model to forecast Walmart sales based on historical data.
